@@ -48,7 +48,7 @@
 
 ## 一起共建
 
-也欢迎通过 [Issues](https://github.com/community-run/global-migration-guide/issues) 推荐移居相关原始链接、提交纠错或补充当地经验。请注明国家、城市、事情发生时间、适用条件及原始来源；不清楚的地方请直接说明。
+也欢迎通过 [Issues](https://github.com/hearlocals/hearlocals/issues) 推荐移居相关原始链接、提交纠错或补充当地经验。请注明国家、城市、事情发生时间、适用条件及原始来源；不清楚的地方请直接说明。
 
 公开 Issue 不要填写微信号、电话、证件、住址或当事人隐私。我们拒绝中介获客、代办推广、保证结果和佣金导流。收录不代表原作者入驻；原作者作品仍归原作者所有。
 
