@@ -52,6 +52,11 @@
 
 公开 Issue 不要填写微信号、电话、证件、住址或当事人隐私。我们拒绝中介获客、代办推广、保证结果和佣金导流。收录不代表原作者入驻；原作者作品仍归原作者所有。
 
+## 联系我们
+
+- 一般联络、合作或博主入驻：[hello@hearlocals.com](mailto:hello@hearlocals.com)
+- 作者下架或版权问题：[takedown@hearlocals.com](mailto:takedown@hearlocals.com)
+
 ## 发布范围
 
 GitHub Pages 保留社区入口，投稿、审核与纠错由带数据库的完整社区处理。本仓库的公开文件不包含私密联系方式、内部完整转录稿、运行凭据或日志。
