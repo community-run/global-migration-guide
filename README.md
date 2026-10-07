@@ -1,10 +1,12 @@
-# 全球移居生活指南
+# 当地人说
 
-**世界很大，让当地经验带路。**
+**由当地人汇聚的全球移居指南**
+
+听过来人说，再决定去哪里。
 
 由当地华人发声的互助移民社区。
 
-[访问社区](https://global-migration-community.kohakuqing.chatgpt.site/) · [提问](https://global-migration-community.kohakuqing.chatgpt.site/#/ask) · [分享一条经历](https://global-migration-community.kohakuqing.chatgpt.site/#/share) · [社区工作台](https://global-migration-community.kohakuqing.chatgpt.site/admin)
+[访问社区](https://hearlocals.com/) · [提问](https://hearlocals.com/#/ask) · [分享一条经历](https://hearlocals.com/#/share) · [社区工作台](https://hearlocals.com/admin)
 
 <!-- manifesto:start -->
 ## 为什么做这份指南？
